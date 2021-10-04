@@ -1,10 +1,6 @@
 # Paper 
 ### BioLCNet: Reward-modulated Locally Connected Spiking Neural Networks
 
-Hafez Ghaemi, Erfan Mirzaei, Mahbod Nouri, Saeed Reza Kheradpisheh
-
-arXiv: https:// 
-
 # Requirements 
 Python 3.7 , PyTorch == 1.8, Bindsnet
 
